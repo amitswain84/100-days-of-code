@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
+![100 Days of Code challenge](infoGraphics/100DaysOfCode.jpg)
 
 ## Contents
 
