@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: June 27, Monday
+### Day 1: August 25, Tuesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
