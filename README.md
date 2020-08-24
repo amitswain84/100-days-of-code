@@ -7,7 +7,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @AmitSwa44916029 || Linkedin @amitswain32847b17a), adding a sub-folder in the 'intl' folder with the files of the translation there.
+If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter: [@AmitSwa44916029](https://twitter.com/AmitSwa44916029) Linkedin: [@amitswain32847b17a](https://linkedin.com/in/amit-swain-32847b17a/) ), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## If you've decided to join:
 
